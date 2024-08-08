@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    display: flex;
+}
+.box input{
+    display: flex;
+    margin: auto;
+}
